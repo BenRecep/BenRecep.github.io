@@ -1,5 +1,5 @@
 const lanyardJS = window.lanyard;
-const discordId = "906925427375865896";
+const discordId = "818224538663256175";
 
 function setupTheme() {
   const theme = localStorage.getItem('theme');
