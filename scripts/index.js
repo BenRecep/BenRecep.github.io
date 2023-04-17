@@ -219,7 +219,7 @@ function loadIcons() {
       </clipPath>
       </defs>
       </svg>`,
-      href: `https://erensenell.github.io/discord`,
+      href: `https://discord.gg/N46QJ8S8Bf`,
       tippy: 'Discord'
     },
     {
